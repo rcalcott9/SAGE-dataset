@@ -1,0 +1,13 @@
+data/*.ndjson
+data/**/*.ndjson
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+node_modules/
+.venv/
+venv/
+.env
+*.key
+.wrangler/
+.Rhistory

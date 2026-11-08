@@ -1,0 +1,35 @@
+{
+  "input": "data/pilot_comments.ndjson",
+  "n_comments": 22700,
+  "n_toplevel": 12040,
+  "n_toplevel_nonbot": 10759,
+  "toplevel_share": 0.5304,
+  "n_verdicts": 6793,
+  "parse_rate_of_nonbot_toplevel": 0.6314,
+  "n_unique_raters": 4974,
+  "verdict_distribution": {
+    "YTA": 1563,
+    "NTA": 4535,
+    "ESH": 372,
+    "NAH": 204,
+    "INFO": 119
+  },
+  "verdict_proportions": {
+    "YTA": 0.2301,
+    "NTA": 0.6676,
+    "ESH": 0.0548,
+    "NAH": 0.03,
+    "INFO": 0.0175
+  },
+  "raters_ge": {
+    "5": 113,
+    "10": 23,
+    "20": 1,
+    "25": 1,
+    "50": 0,
+    "100": 0,
+    "250": 0,
+    "500": 0
+  },
+  "min_verdicts_for_csv": 5
+}
